@@ -1,0 +1,21 @@
+Chain Id: 15
+Route for vehicle 1:
+ 1 Load(1) End Time(18000) Arrival(18000) Station Needed (0) TimeWindow(18000, 19800) Travel time from previous node: 0
+ ->  4 Load(0) End Time(18270) Arrival(18270) Station Needed (0) TimeWindow(18269, 20069) Travel time from previous node: 270
+
+Distance of the route: 871.0 m
+Load of the route: 0
+Route for vehicle 2:
+ 3 Load(1) End Time(36130) Arrival(36130) Station Needed (0) TimeWindow(36130, 37930) Travel time from previous node: 0
+ ->  6 Load(0) End Time(36443) Arrival(36443) Station Needed (0) TimeWindow(36442, 38242) Travel time from previous node: 313
+
+Distance of the route: 848.0 m
+Load of the route: 0
+Route for vehicle 3:
+ 2 Load(1) End Time(26100) Arrival(26100) Station Needed (0) TimeWindow(26100, 27900) Travel time from previous node: 0
+ ->  5 Load(0) End Time(26321) Arrival(26321) Station Needed (0) TimeWindow(26321, 28121) Travel time from previous node: 221
+
+Distance of the route: 804.0 m
+Load of the route: 0
+Total distance of all routes without break distance: 2523.0 m
+Total load of all routes: 0
